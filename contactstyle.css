@@ -1,6 +1,7 @@
 body{
     background-image: url(contact.jpg);
-    background-size: 120%; 
+    background-size: 100%; 
+    background-repeat: round;
 }
 
 *{
