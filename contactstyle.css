@@ -1,0 +1,20 @@
+body{
+    background-image: url(contact.jpg);
+    background-size: 120%; 
+}
+
+*{
+    text-align: right;
+}
+
+.text{
+    color: white;
+}
+
+.reff{
+    color: aqua;
+}
+
+
+
+
